@@ -2,7 +2,7 @@ Hello, I go by Lanceback on GitHub. I'm a decent web developer, a just-about-goo
 
 My current projects include:
 
-A tank game I made years ago. It was made in blender game engine, which is no longer around so I have recreated it in Godot Game Engine. 
+A tank game I made years ago. It was made in blender game engine, which is no longer around. So I have recreated it in Godot Game Engine. 
 Making that first game sparked an interested in game development that has lasted till now.
 It's not an amazing game, but tank games always seem to have an audience.
 
@@ -12,6 +12,6 @@ I've been having fun adding circuits to it, tweaking the code a bit, and general
 I just need like... a couple million more and I can take over- I mean protect the world!
 
 
-I'm pretty good at python, HTML (javascript and CSS as well), gdscript and bash. I'm ok at GO, and am just barely capable with C and perl.
+I'm pretty good at python, HTML, javascript, CSS, gdscript and bash. I'm ok at GO, and am just barely capable with C and perl.
 
 I've also been known to play with autonomous aircraft on occasion.
